@@ -1,0 +1,37 @@
+able {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    padding: 0.25rem;
+    text-align: left;
+    border: 1px solid rgb(0, 0, 0);
+  }
+
+  body {
+    background-color: pink
+  }
+
+  body {
+    background-image: url("https://th.bing.com/th/id/R.2ef58286d01f8b2feceb47914b2c44ee?rik=gmecYxg99cmyTg&riu=http%3a%2f%2fwww.technocrazed.com%2fwp-content%2fuploads%2f2015%2f12%2fWood-Wallpaper-Background-27.jpg&ehk=04%2b2H6wRpjePfMa%2bUQXMexScaO5dDVDjgD7QGlJIzPw%3d&risl=&pid=ImgRaw");
+  }
+
+  h1 {
+    color: rgb(9, 29, 143);
+  }
+
+  th {
+    color: burlywood
+  }
+ 
+  table {
+    color: burlywood
+  }
+
+  nav {
+    color:rgb(255, 0, 255)
+  }
+
+  li {
+    color:rgb(255, 0, 255)
+  }
